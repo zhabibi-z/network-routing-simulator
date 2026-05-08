@@ -70,6 +70,6 @@ Prints initial routing tables, applies a sample cost change to the first router'
 - Python 3.x (standard library only — `tkinter`, `threading`, `re`)
 - No external packages required
 
-## Authors
+## Author
 
-Ziauddin Habibi — Computer Networks Final Project
+Ziauddin Habibi
