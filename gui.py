@@ -310,7 +310,8 @@ class RouterSimGUI:
 # ── Entry point ────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    import subprocess, os
+    import os
+    import subprocess
     pid = os.getpid()
     subprocess.Popen([
         "osascript", "-e",
